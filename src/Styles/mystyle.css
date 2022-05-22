@@ -1,0 +1,112 @@
+#mainWindow{
+background-color: #03111C;
+}
+
+
+#frame{
+background-color: #1e2b28;
+}
+
+#drae{
+background-color: #979494;
+}
+
+#mainlabel{
+	font-family: Gill Sans;
+	color: #1a011a;
+	font-size: 20px;
+	font-weight: 300;
+	border-color: red;
+	border-radius: 5px;
+}
+
+#modellabel{
+	font-family: Gill Sans;
+	color: #1a011a;
+	font-size: 17px;
+	font-weight: 300;
+	border-color: red;
+	border-radius: 5px;
+}
+
+#rotatelabel{
+	font-family: Gill Sans;
+	color: #1a011a;
+	font-size: 17px;
+	font-weight: 300;
+	border-color: red;
+	border-radius: 5px;
+}
+
+#translateLabel{
+	font-family: Gill Sans;
+	color: #1a011a;
+	font-size: 17px;
+	font-weight: 300;
+	border-color: red;
+	border-radius: 5px;
+}
+
+#buttonTranslate{
+	font-family: DejaVu Sans;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 10px;
+    border-radius: 15px;
+}
+
+#buttonRotate{
+	font-family: DejaVu Sans;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 10px;
+    border-radius: 15px;
+}
+
+#scaleLabel{
+	font-family: Gill Sans;
+	color: #1a011a;
+	font-size: 17px;
+	font-weight: 300;
+	border-color: red;
+	border-radius: 5px;
+}
+
+#buttonScale{
+	font-family: DejaVu Sans;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 10px;
+    border-radius: 15px;
+}
+#aboutModelLabelV{
+	font-family: Gill Sans;
+	color: #1a011a;
+	font-size: 15px;
+	font-weight: 300;
+	border-color: red;
+	border-radius: 5px;
+}
+
+#aboutModelLabelF{
+	font-family: Gill Sans;
+	color: #1a011a;
+	font-size: 15px;
+	font-weight: 300;
+	border-color: red;
+	border-radius: 5px;
+}
+
+#settingsButton{
+	background-image:none;
+	color: #1a011a;
+  	 border: none;
+}
+#valueLabel {
+font-family: Gill Sans;
+	color: #1a071a;
+	font-size: 17px;
+	font-weight: 300;
+	border-color: red;
+	border-radius: 5px;
+}
